@@ -6,4 +6,5 @@
 3. python文件：包括img_modifier文件夹,img_modifier.py和photo_editor.py主程序
 4. logging_config.ini：日志配置文件
 
-### 程序运行结果图
+###程序运行结果图
+![效果图](show.jpg)
